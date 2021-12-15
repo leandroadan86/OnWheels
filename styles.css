@@ -111,6 +111,5 @@ img{border-radius: 5px;}
     .hidden {display:none}
     .letra-chica { font-size: 20px;}
     .foot {text-align: center;}
-    .galeria img{width: 85%; height: auto;}
-}
+    .galeria img{width: 80%; height:min-content;}}
 
